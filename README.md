@@ -6,4 +6,5 @@
 
 # Tecnologias Utilizadas
 - HTML
+- CSS
 - JavaScript
