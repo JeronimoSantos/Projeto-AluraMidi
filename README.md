@@ -19,5 +19,18 @@
   </li>
 </ul>
 
+<h2> Instrutora </h2>
+<ul>
+  <li>
+    Vanessa Me Tonini
+  </li>
+  <li>
+    <a href="https://www.linkedin.com/in/vanessametonini/" title="Linkedin da Instrutora"> Linkedin </a>
+  </li>
+  <li>
+    <a href="https://github.com/vanessametonini" title="GitHub da Instrutora"> GitHub </a>
+  </li>
+</ul>
+
 <h2> 🏆 Certificado </h2>
   <img src="" />
